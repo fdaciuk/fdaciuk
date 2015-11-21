@@ -1,0 +1,15 @@
+{
+  "name": "fdaciuk",
+  "version": "1.0.0",
+  "description": "Fernando Daciuk, the person.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Fernando Daciuk",
+  "license": "ISC"
+}
