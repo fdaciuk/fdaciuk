@@ -2,6 +2,8 @@
 
 > Fernando Daciuk, the person.
 
+![](fdaciuk.gif)
+
 ```sh
 npm install fdaciuk
 ```
