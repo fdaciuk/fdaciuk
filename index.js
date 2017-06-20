@@ -1,8 +1,3 @@
-'use strict';
-const path = require('path');
-const fs = require('fs');
+'use strict'
 
-fs.readFile(
-  path.resolve(__dirname, 'info.json'), 'utf8', 
-  (err, data) => console.log(err || data)
-);
+module.exports = require('./info.json')
