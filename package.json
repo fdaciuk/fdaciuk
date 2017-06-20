@@ -2,7 +2,7 @@
   "name": "fdaciuk",
   "version": "1.2.1",
   "description": "Fernando Daciuk, the person.",
-  "main": "index.js",
+  "main": "./info.json",
   "scripts": {
     "postinstall": "cat info.json",
     "postversion": "npm publish"
