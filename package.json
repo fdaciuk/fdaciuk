@@ -4,8 +4,10 @@
   "description": "Fernando Daciuk, the person.",
   "main": "./info.json",
   "scripts": {
-    "postinstall": "cat info.json",
     "postversion": "npm publish"
+  },
+  "bin": {
+    "fdaciuk": "./fdaciuk.js"
   },
   "keywords": [
     "person",
