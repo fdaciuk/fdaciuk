@@ -5,11 +5,17 @@
   "twitter": "https://twitter.com/fdaciuk",
   "linkedin": "https://linkedin.com/in/fdaciuk",
   "facebook": "https://facebook.com/fdaciuk",
+  "instagram": "https://instagram.com/fdaciuk",
+
   "company": [
     {
       "name": "queroser.ninja",
       "position": "Teacher and everything else",
-      "website": "https://queroser.ninja"
+      "website": "https://queroser.ninja",
+      "social": {
+        "github": "https://github.com/queroserninja",
+        "youtube": "https://youtube.com/queroserninja"
+      }
     }
   ]
 }
