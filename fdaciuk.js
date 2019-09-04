@@ -2,8 +2,9 @@
 
 'use strict'
 const { readFile } = require('fs')
+const { join } = require('path')
 
-readFile('./info.json', 'utf8', (err, content) => {
+readFile(join(__dirname, 'info.json'), 'utf8', (err, content) => {
   if (err) throw err
   console.log(content)
 })
