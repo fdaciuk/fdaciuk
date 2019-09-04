@@ -5,13 +5,7 @@
 ![](fdaciuk.gif)
 
 ```console
-npm install fdaciuk
-```
-
-and
-
-```js
-console.log(require('fdaciuk'));
+npx fdaciuk
 ```
 
 To get my contact information.
