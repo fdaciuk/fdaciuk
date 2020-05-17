@@ -9,8 +9,19 @@
 
   "company": [
     {
+      "name": "Lukin Co.",
+      "position": "Founder & CTO",
+      "website": "https://lukin.co",
+      "social": {
+        "github": "https://github.com/lukinco",
+        "twitter": "https://twitter.com/lukin_co",
+        "facebook": "https://www.facebook.com/lukinco",
+        "instagram": "https://instagram.com/lukinco",
+        "linkedin": "https://www.linkedin.com/company/lukinco"
+      }
+    }, {
       "name": "queroser.ninja",
-      "position": "Teacher and everything else",
+      "position": "Founder & Teacher (and everything else)",
       "website": "https://queroser.ninja",
       "social": {
         "github": "https://github.com/queroserninja",
