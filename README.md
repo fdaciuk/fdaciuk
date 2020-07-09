@@ -2,7 +2,7 @@
 
 > Fernando Daciuk, the person.
 
-![](fdaciuk.gif)
+![](https://raw.githubusercontent.com/fdaciuk/fdaciuk/master/fdaciuk.gif)
 
 ```console
 npx fdaciuk
