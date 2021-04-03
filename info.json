@@ -6,18 +6,18 @@
   "linkedin": "https://linkedin.com/in/fdaciuk",
   "facebook": "https://facebook.com/fdaciuk",
   "instagram": "https://instagram.com/fdaciuk",
+  "twitch": "https://twitch.tv/fdaciuk",
 
   "company": [
     {
-      "name": "Lukin Co.",
-      "position": "Founder & CTO",
-      "website": "https://lukin.co",
+      "name": "Brainn Co.",
+      "position": "Tech Lead & Software Developer",
+      "website": "https://brainn.co",
       "social": {
-        "github": "https://github.com/lukinco",
-        "twitter": "https://twitter.com/lukin_co",
-        "facebook": "https://www.facebook.com/lukinco",
-        "instagram": "https://instagram.com/lukinco",
-        "linkedin": "https://www.linkedin.com/company/lukinco"
+        "github": "https://github.com/brainnco",
+        "twitter": "https://twitter.com/brainn_co",
+        "instagram": "https://instagram.com/brainn_co",
+        "linkedin": "https://www.linkedin.com/company/brainnco"
       }
     }, {
       "name": "queroser.ninja",
