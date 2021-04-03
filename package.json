@@ -3,9 +3,6 @@
   "version": "2.1.0",
   "description": "Fernando Daciuk, the person.",
   "main": "./info.json",
-  "scripts": {
-    "postversion": "npm publish"
-  },
   "bin": {
     "fdaciuk": "./fdaciuk.js"
   },
