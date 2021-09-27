@@ -1,23 +1,19 @@
 {
   "name": "Fernando Daciuk",
-  "website": "https://da2k.com.br",
+  "website": "https://daciuk.dev",
+  "twitch": "https://twitch.tv/fdaciuk",
   "github": "https://github.com/fdaciuk",
   "twitter": "https://twitter.com/fdaciuk",
-  "linkedin": "https://linkedin.com/in/fdaciuk",
-  "facebook": "https://facebook.com/fdaciuk",
   "instagram": "https://instagram.com/fdaciuk",
-  "twitch": "https://twitch.tv/fdaciuk",
-
+  "linkedin": "https://linkedin.com/in/fdaciuk",
   "company": [
     {
-      "name": "Brainn Co.",
-      "position": "Tech Lead & Software Developer",
-      "website": "https://brainn.co",
+      "name": "Porto Lab",
+      "position": "Back End Developer",
+      "website": "https://portolab.com.br",
       "social": {
-        "github": "https://github.com/brainnco",
-        "twitter": "https://twitter.com/brainn_co",
-        "instagram": "https://instagram.com/brainn_co",
-        "linkedin": "https://www.linkedin.com/company/brainnco"
+        "github": "https://github.com/portolab",
+        "linkedin": "https://www.linkedin.com/company/portolab"
       }
     }, {
       "name": "queroser.ninja",
