@@ -2,7 +2,7 @@
 
 > Fernando Daciuk, the person.
 
-![](https://raw.githubusercontent.com/fdaciuk/fdaciuk/master/fdaciuk.gif)
+<video autoplay loop playsinline controls src="https://user-images.githubusercontent.com/487669/135340674-64473557-36e7-4d9a-bd19-6f4bb1728eb0.mp4"></video>
 
 ```console
 npx fdaciuk
