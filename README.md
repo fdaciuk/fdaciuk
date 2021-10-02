@@ -1,7 +1,7 @@
 # Hi, I'm Fernando Daciuk 👋
 
 ➤ Software Developer at [@portolab](https://github.com/portolab)  
-➤ Teacher at [@queroserninja](https://github.com/da2k)  
+➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
 ➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 
 ## Techs I'm working with at the moment
