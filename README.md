@@ -2,7 +2,7 @@
 
 ➤ Software Developer at [@portolab](https://github.com/portolab)  
 ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
-➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)
+➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 ➤ Building the future of Web3 identity at [degen.bio](https://degen.bio)
 
 ## Techs I'm working with at the moment
