@@ -7,10 +7,11 @@
 
 ## Techs I'm working with at the moment
 
- ➤ Node.js  
- ➤ React.js  
- ➤ TypeScript  
- ➤ Functional Programming
+➤ Rust  
+➤ Node.js  
+➤ React.js  
+➤ TypeScript  
+➤ Functional Programming
 
 
 <video autoplay loop playsinline controls src="https://user-images.githubusercontent.com/487669/135340674-64473557-36e7-4d9a-bd19-6f4bb1728eb0.mp4"></video>
