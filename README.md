@@ -1,6 +1,6 @@
 # Hi, I'm Fernando Daciuk 👋
 
-➤ Software Developer at [@portolab](https://github.com/portolab)  
+➤ Lead Back End at [@portolab](https://github.com/portolab)  
 ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
 ➤ Live Coder JS / TS / React / Rust at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 ➤ Building the future of Web3 identity at [degen.bio](https://degen.bio)
