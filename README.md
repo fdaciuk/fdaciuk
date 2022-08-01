@@ -1,9 +1,8 @@
 # Hi, I'm Fernando Daciuk 👋
 
-➤ Lead Back End at [@portolab](https://github.com/portolab)  
+➤ Lead Back End (Rust / TypeScript) at [@portolab](https://github.com/portolab)  
 ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
-➤ Live Coder JS / TS / React / Rust at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
-➤ Building the future of Web3 identity at [degen.bio](https://degen.bio)
+➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 
 ## Techs I'm working with at the moment
 
