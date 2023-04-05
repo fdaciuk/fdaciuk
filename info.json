@@ -8,14 +8,6 @@
   "linkedin": "https://linkedin.com/in/fdaciuk",
   "company": [
     {
-      "name": "Porto Lab",
-      "position": "Back End Developer",
-      "website": "https://portolab.com.br",
-      "social": {
-        "github": "https://github.com/portolab",
-        "linkedin": "https://www.linkedin.com/company/portolab"
-      }
-    }, {
       "name": "queroser.ninja",
       "position": "Founder & Teacher (and everything else)",
       "website": "https://queroser.ninja",
