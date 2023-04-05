@@ -1,6 +1,6 @@
 # Hi, I'm Fernando Daciuk 👋
 
-➤ Software Developer (Rust | TypeScript | React.js | ReScript)  
+➤ Software Developer (Rust | TypeScript | React.js | ReScript)   
 ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
 ➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 
