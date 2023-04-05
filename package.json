@@ -1,6 +1,6 @@
 {
   "name": "fdaciuk",
-  "version": "4.0.2",
+  "version": "4.1.0",
   "description": "Fernando Daciuk, the person.",
   "main": "./info.json",
   "bin": {
