@@ -10,6 +10,7 @@
 ➤ Node.js  
 ➤ React.js  
 ➤ TypeScript  
+➤ ReScript  
 ➤ Functional Programming
 
 
