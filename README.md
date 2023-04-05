@@ -1,6 +1,6 @@
 # Hi, I'm Fernando Daciuk 👋
 
-➤ Lead Back End (Rust / TypeScript) at [@portolab](https://github.com/portolab)  
+➤ Software Developer (Rust | TypeScript | React.js | ReScript) 
 ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
 ➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
 
