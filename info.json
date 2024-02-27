@@ -8,6 +8,17 @@
   "linkedin": "https://linkedin.com/in/fdaciuk",
   "company": [
     {
+      "name": "Conta Simples",
+      "position": "Back End Software Engineer",
+      "website": "https://contasimples.com",
+      "social": {
+        "instagram": "https://www.instagram.com/contasimplesbr/",
+        "linkedin": "https://www.linkedin.com/company/contasimples/mycompany/",
+        "facebook": "https://www.facebook.com/contasimplesBR/",
+        "youtube": "https://www.youtube.com/@ContaSimples"
+      }
+    },
+    {
       "name": "queroser.ninja",
       "position": "Founder & Teacher (and everything else)",
       "website": "https://queroser.ninja",
