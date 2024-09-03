@@ -3,21 +3,10 @@
   "website": "https://daciuk.dev",
   "twitch": "https://twitch.tv/fdaciuk",
   "github": "https://github.com/fdaciuk",
-  "twitter": "https://twitter.com/fdaciuk",
+  "x": "https://x.com/fdaciuk",
   "instagram": "https://instagram.com/fdaciuk",
   "linkedin": "https://linkedin.com/in/fdaciuk",
   "company": [
-    {
-      "name": "Conta Simples",
-      "position": "Back End Software Engineer",
-      "website": "https://contasimples.com",
-      "social": {
-        "instagram": "https://www.instagram.com/contasimplesbr/",
-        "linkedin": "https://www.linkedin.com/company/contasimples/mycompany/",
-        "facebook": "https://www.facebook.com/contasimplesBR/",
-        "youtube": "https://www.youtube.com/@ContaSimples"
-      }
-    },
     {
       "name": "queroser.ninja",
       "position": "Founder & Teacher (and everything else)",
